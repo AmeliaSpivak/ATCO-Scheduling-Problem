@@ -1,0 +1,36 @@
+,District,AM Peak,Midday,PM Peak,Evening,Early Morning,,
+Castro/Upper Market,0,1669,1347,1499,1178,1052,,
+Bernal Heights,1,1801,1205,1287,957,948,,Took data from Mission for PM Peak/Evening
+Bayview Heights,2,1981,1399,1682,1127,1068,,
+Chinatown,3,562,526,675,455,379,,
+Financial District/South Beach,4,286,350,434,257,189,,
+Glen Park,5,2213,1513,1999,1261,1235,,"took data for PM peak, Evening and Early morning from Noe Valley"
+Golden Gate Park (sunset),6,2396,1933,2316,1710,1408,,
+Haight-Ashbury,7,1942,1383,1468,1246,1006,,
+Hays Valley,8,1283,902,1048,796,715,,
+Inner Richmond,9,1835,1466,1719,1305,1101,,
+Inner Sunset,10,2407,1933,2316,1710,1264,,"Took Midday, PM Peak, Evening from Golden Gate"
+Japantown,11,1177,1100,1142,921,881,,
+Lakeshore,12,2378,1567,2023,1378,1375,,
+Lone Mountain,13,1801,1518,1439,1320,1093,,
+Marina,14,1499,1219,1479,1044,1053,,
+Mission,15,1335,1063,1287,957,902,,
+Mission Bay,16,1059,823,976,707,581,,
+Nob Hill,17,983,937,1165,633,566,,
+Noe Valley,18,1818,1523,1999,1261,1235,,
+North Beach,19,953,820,1000,707,723,,
+Oceanview/Merced/Ingelside,20,2063,1699,1719,1331,1286,,
+Outer Mission,21,2272,1496,2023,1254,1181,,took PM peak from Lakeshore
+Outer Richmond,22,2257,1466,1719,1305,1101,,"Took Midday, PM Peak, Evening, Earky Morning from Innrer Richmond"
+Pacific Heights,23,1519,1184,1371,1117,989,,
+Portola,24,1918,1217,1287,957,960,,"Took PM, Evening from Mission"
+Potrero Hill,25,1425,1100,1306,1156,797,,
+Presidio,26,1720,1452,1697,1331,1284,,
+Presidio Heights,27,1503,1452,1697,1170,1284,,"Copy Midday, PM Peak and Early morning from Preisido"
+Russian Hill,28,1148,945,1181,807,777,,
+South of Markets,29,695,517,622,491,428,,
+Tenderloin,30,1052,949,1110,844,636,,
+Treasure Island,31,536,374,612,297,279,,
+Visitacion Valley (using Visitacion Valley Middle School),32,2225,1543,1999,1329,1306,,"Took PM, Evening from Noe Valley"
+West of Twin Peaks,33,2215,1690,1999,1329,1304,,Took Pm peak from Noe Valley
+Western Addition ,34,1465,1300,1371,945,744,,Took Pm peak from Pacific Heights

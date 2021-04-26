@@ -1,0 +1,36 @@
+,District,AM Peak,Midday,PM Peak,Evening,Early Morning,,
+Castro/Upper Market,0,1284,1284,1784,1259,989,,Took data from mission for AM Peak from Midday
+Bernal Heights,1,1168,1168,1513,923,939,,Took data from mission for AM Peak from Midday
+Bayview Heights,2,1437,1437,1779,1178,888,,Took data from mission for AM Peak from Midday
+Chinatown,3,506,472,574,408,320,,
+Financial District/South Beach,4,189,207,281,193,147,,
+Glen Park,5,1542,1542,1711,1359,931,,Took data from mission for AM Peak from Midday
+Golden Gate Park (sunset),6,1980,1785,2150,1550,1233,,
+Haight-Ashbury,7,1406,1508,1790,1241,982,,
+Hays Valley,8,940,927,1229,815,672,,
+Inner Richmond,9,1423,1413,1605,1287,1031,,
+Inner Sunset,10,2017,2017,2116,1756,1314,,Took data from mission for AM Peak from Midday
+Japantown,11,941,920,1088,827,724,,
+Lakeshore,12,1802,1583,2253,1534,1457,,
+Lone Mountain,13,1260,1316,1505,1127,911,,
+Marina,14,1148,1168,1379,1034,895,,
+Mission,15,1058,1081,1323,1043,830,,
+Mission Bay,16,856,851,1054,713,681,,
+Nob Hill,17,681,683,851,595,420,,
+Noe Valley,18,1404,1404,1760,1189,1017,,Took data from mission for AM Peak from Midday
+North Beach,19,779,751,872,640,585,,
+Oceanview/Merced/Ingelside,20,1204,1204,2070,1385,1385,,Took data from mission for AM Peak from Midday; Took data for Early morning from evening
+Outer Mission,21,1575,1575,2402,1246,1202,,Took data from mission for AM Peak from Midday
+Outer Richmond,22,1717,1585,1958,1561,1199,,
+Pacific Heights,23,1084,1129,1402,1063,1062,,
+Portola,24,1340,1340,1739,975,1021,,Took data from mission for AM Peak from Midday; Took data for Early morning from Vistication Valley
+Potrero Hill,25,1158,1158,1292,1003,879,,Took data from mission for AM Peak from Midday
+Presidio,26,1239,1319,1560,1189,1018,,
+Presidio Heights,27,1195,1187,1496,1151,834,,
+Russian Hill,28,841,871,1075,811,659,,
+South of Markets,29,878,699,809,599,695,,
+Tenderloin,30,794,783,885,741,623,,
+Treasure Island,31,378,570,618,426,374,,
+Visitacion Valley (using Visitacion Valley Middle School),32,1455,1362,1677,1157,1021,,
+West of Twin Peaks,33,1902,1902,2280,1327,1363,,Took data from mission for AM Peak from Midday
+Western Addition ,34,1340,1226,1421,1211,1211,,Took data from evening mission to 
